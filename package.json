@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with Redis",
+  "main": "hello-world.js",
+  "scripts": {
+    "start": "node hello-world.js"
+  },
+  "dependencies": {
+    "redis": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
